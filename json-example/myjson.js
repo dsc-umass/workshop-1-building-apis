@@ -29,4 +29,4 @@ myJson = {
     ]
   }
   
-  console.log(myJson['data'][0])
+  console.log(myJson['data'][0]['attributes'])
