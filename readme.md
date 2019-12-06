@@ -20,3 +20,14 @@ For Mac/Linux:
 ```
 $env:GOOGLE_APPLICATION_CREDENTIALS="./example.json"
 ```
+
+To install express:
+
+```
+npm install -g express-generator
+```
+
+```
+npm install express --save
+```
+
