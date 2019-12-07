@@ -18,7 +18,7 @@ $env:GOOGLE_APPLICATION_CREDENTIALS="./example.json"
 
 For Mac/Linux:
 ```
-$env:GOOGLE_APPLICATION_CREDENTIALS="./example.json"
+export GOOGLE_APPLICATION_CREDENTIALS="./example.json"
 ```
 
 To install express:
