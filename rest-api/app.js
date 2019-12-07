@@ -3,7 +3,7 @@ var app = express();
 
 app.get("/add", (req, res, next) => {
     
-    res.json(num1 + num2);
+    res.json("hello world");
 
 });
 
